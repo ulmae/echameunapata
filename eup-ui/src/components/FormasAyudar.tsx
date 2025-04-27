@@ -17,8 +17,8 @@ export default function FormasAyudar() {
     },
     {
       icon: "📣",
-      title: "Comparte nuestra causa",
-      text: "Tu voz puede llegar sus patitas no.",
+      title: "Comparte",
+      text: "Tu voz puede llegar donde sus patitas no.",
     },
   ];
 
